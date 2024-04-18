@@ -1,0 +1,75 @@
+﻿@model MVCWebApplication4.Models.ModernImageModel
+
+ 
+
+<style>
+
+
+    .form-label {
+        font-size: 22px;
+        display: block;
+        font-family: Georgia;
+    }
+
+    .form-input {
+        width: 95%;
+        border: 1px solid black;
+        border-style: revert-layer;
+        height: 40px;
+        display: block;
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding: 5px 20px;
+        font-family: Georgia;
+        color: lawngreen;
+        justify-content: center;
+    }
+
+    .from-style {
+        border: 2px solid black;
+        width: 450px;
+        margin-left: 30%;
+        padding: 50px;
+        border-radius: 15px
+    }
+
+    h1 {
+        font-family: Georgia;
+        margin-left: 34%;
+    }
+</style>
+<br />
+
+<h1>Create Your Profile</h1>
+
+<from method="post" enctype="multipart/form-data">
+
+
+    <div class="from-style">
+        <div class="log-div">
+            <label class="form-label" for="">Nameghghghgh</label>
+            <input type="text" class=" form-input" name="ItemName" placeholder="ENTER YOUR NAME" asp-for="ItemName" />
+
+        </div>
+        <div class="log-div">
+            <label class="form-label" for="">Email</label>
+            <input type="text" class=" form-input" name="price" placeholder="ENTER YOUR EMAIL" asp-for="price" />
+
+            
+        </div>
+        <div class="log-div">
+            <label class="form-label" for="">PHONENUMBER</label>
+            <input type="text" class=" form-input" name="Description" placeholder="ENTER YOUR PHONENUMBER" asp-for="Description" />
+
+        </div>
+        <div class="log-div">
+            <label class="form-label" for="">ADDRESS</label>
+            <input type="file" class="form-input" form-input" name="imagefile" placeholder="ENTER YOUR ADDRESS" asp-for="imagefile" />
+
+        </div>
+      
+        <button type="submit" class="btn btn-primary">Submit</button>
+
+
+    </div>
+</from>

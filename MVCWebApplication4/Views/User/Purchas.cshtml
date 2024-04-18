@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Modern
+<style>
+    
+    .img img
+    {
+        width:550px;
+        height:350px;
+        justify-items:start; 
+        margin-top:30px;
+    }
+    .purchas
+    {
+        width:100%;
+        height:100%;
+        margin-left:30%;
+
+    }
+
+    .img 
+    {
+        font-family: Georgia;
+    }
+    h2
+    {
+        font-family: Georgia;
+    }
+
+    .buy-btn {
+        text-decoration:none;
+        color :black;
+        border:1px solid black ;
+        padding: 5px;
+       background-color:red;
+        border-radius: 5px;
+    }
+
+        .buy-btn-2
+        {
+        text-decoration: none;
+        color: black;
+        border: 1px solid black;
+        padding:5px;
+        margin-left: 34%;
+        background-color:lawngreen;
+        border-radius:5px;
+        }
+       
+    
+</style>
+ <div class="purchas">
+            <h2>Place Your Order here</h2>
+       <div class="img">
+          <img src="~/pexels-jane-doan-793759.jpg" />
+        <p>
+            <h4>Frash Fuirts Rs.200</h4>
+
+            <a class="buy-btn" asp-area"" asp-controller="Home" asp-action="Index">
+
+                BACK
+            </a>
+            <a class="buy-btn-2" asp-area"" asp-controller="User" asp-action="PlaceOrder">
+
+                BUY
+            </a>
+            <br />
+            <br />
+            Fruits come in various forms: fleshy, dry, sweet, or pulpy. Examples include <br />apricots,
+            bananas, grapes, bean pods, 
+            corn grains, tomatoes, cucumbers, and <br />acorns (still in their shells).<br />
+            <h4> Nutritional Benefits of Fruits:</h4>
+            Fruits are essential sources of:
+            Dietary fiber: Promotes<br /> digestive health.
+            Vitamins, especially vitamin C: Boosts immunity and overall health.<br />
+            Antioxidants: Help combat oxidative stress.
+        </p>
+       </div>
+      
+</div>

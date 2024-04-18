@@ -1,0 +1,252 @@
+﻿﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> signInManager
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MVCWebApplication4</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MVCWebApplication4.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
+<style>
+       
+
+
+        .Main-div {
+            display: flex;
+            width: 100%;
+            height  :60px;
+        }
+
+        .Name {
+
+            color :black;
+            font-size:40px;
+            font-family: Georgia;
+            margin-left:17%;
+            margin-top:8px;
+            text-decoration:none;
+            list-style:none;
+            padding-right:850px;          
+        }
+
+        .Name {
+                    z-index: auto;
+                    transform: scale(1);
+                    cursor: pointer;
+                    color: lawngreen;
+                }
+        .pr {
+            position:absolute;
+            padding-right:10px;
+            left :90%;
+            height:40px;
+            width:50px;
+            top:12px;
+
+        }
+
+        .propic {
+
+            position:absolute;
+            padding-right:5px;
+            right:70px;
+            
+        }
+            
+        .post {
+            color: black;
+            display: flex;
+        }
+
+        .post-a {
+            color: black;
+            display: flex;
+            margin: 2px;
+            text-decoration: none;
+            font-family: Calibri;
+        }
+
+        .post-nav {
+            text-decoration: none;
+            list-style: none;
+        }
+
+        .home-nav {
+            position: absolute;
+            display: flex;
+            list-style: none;
+            left: 55%;
+            padding-top: 55px;
+            font-size: 12px;
+            font-weight: 300;
+            font-family: Georgia;
+            color: white;
+            margin-top: 8px;
+        }
+        .nav-menu {
+            list-style: none;
+            text-decoration: none;
+            padding: 25px;
+            color: black;
+            font-weight: 100;
+            margin-left: 65%;
+            margin-top: 15px;
+        }
+
+        .nav-menu:hover {
+                z-index: auto;
+                cursor: pointer;
+                color: lawngreen;
+        }
+        .nav-name {
+            list-style: none;
+            text-decoration: none;
+            margin-top: 15px;
+            padding:20px;
+            color:black;
+            font-weight: 100; 
+            margin-left : 60%;
+            font-family: Georgia;
+            color:black;
+        }
+        .nav-name:hover {
+           z-index: auto;
+           cursor: pointer;
+           color:lawngreen;
+         }
+           
+
+       
+      
+        .out-btn {
+            position: absolute;
+            display: flex;
+            list-style: none;
+            left: 9%;
+            top: 385px;
+            padding-top: 15px;
+            font-size: 20px;
+            font-family: Georgia;
+            color: black;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px darkblue;
+            text-decoration: none;
+        }
+
+        .topimage
+        {
+            position: absolute;
+            left:80px;
+            height: 180px;
+            width: 200px;
+            top:-20px;
+        }
+
+        .home-img{
+           
+            height:30px;
+            width:40px;
+           margin-top :-83px;
+           margin-left: 74%;
+           
+        }
+
+       
+       .pr-img img {
+           position:absolute;
+            top:15%;
+            right: 40px;
+       }
+       .pr-img a {
+           text-decoration: none;
+           color : black ;
+           font-size: 22px;
+           font-family: Georgia;
+           position:absolute;
+           left:50%;
+           top:20%;
+          
+       }
+
+      
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-black box-shadow mb-3 ">
+            <div class="Main-div">
+                <img class="topimage" src="~/express-delivery-social-media-post-scooter-delivery-online-delivery-service-or-bike-and-home-delivery-ads-or-icon-free-vector-removebg-preview.png" />
+                <a asp-controller="Home" asp-action="Index"  class="Name"> <h1>M_R-restuarant</h1> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="res-nav">
+                    <ul class="home-nav">
+                       
+                        <li class="">
+                            <a class="nav-name" asp-area="" asp-controller="Home" asp-action="Index">Home<img class="home-img" src="~/25694-removebg-preview (1).png" /> </a>
+                        </li>
+                        <li class="">
+                            <a class="nav-menu" asp-area="" asp-controller="User" asp-action="Menu">Offer<img class="home-img" src="~/pngtree-custom-shape-special-offer-banner-and-tag-png-image_6953389-removebg-preview.png" /></a>
+                        </li>
+                        <li class="">
+                            <a class="nav-name" asp-area="" asp-controller="Home" asp-action="AboutUs">AboutUs<img class="home-img" src="~/1000_f_116732368_8vjjugbjfy6q2cwozlsi7vqeunkcmt1l-removebg-preview.png" /></a>
+                        </li>
+                        <li class="">
+                            <a class="nav-name" asp-area="" asp-controller="User" asp-action="Register">Register<img class="home-img" src="~/3d-registration-icon-symbol-of-document-vote-vector-44042914-removebg-preview.png" /></a>
+                        </li>
+                      
+                        <li class="">
+                            <a class="nav-name" asp-area="" asp-controller="User" asp-action="Login">Login<img class="home-img" src="~/download-removebg-preview.png" /></a>
+                        </li>
+                       
+                    </ul>
+                    
+
+                    <div class="pr-img">
+
+                        
+                        @if (signInManager.IsSignedIn(User))
+                        {
+
+                            <a asp-area="" asp-controller="User" asp-action="Profile"><img class="pr" src="~/profilepic-removebg-preview.png" alt="Avatar">  @User?.Identity?.Name </a>
+                        }
+                           
+                        else
+                        {
+
+                        }
+                        
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container"> 
+
+            &copy; 2024 - MVCWebApplication4 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

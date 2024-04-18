@@ -1,0 +1,106 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model RegisterModel
+
+
+<style>
+    .form-label {
+        font-size: 22px;
+        display: block;
+        font-family: Georgia;
+    }
+
+    .form-input {
+        width: 30%;
+        border: 1px solid black;
+        border-style:revert-layer;
+        
+        height: 40px;
+        display: block;
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding: 5px 20px;
+        font-family: Georgia;
+        color:lawngreen;
+    }
+
+    .logx {
+        background-color: deepskyblue;
+        color: rgb(218,252,252);
+        font-size: 20px;
+        border-radius: 10px;
+        padding: 8px 35px;
+        margin-top: 25px;
+        font-family: Georgia;
+    }
+        .logx:hover {
+            background-color: lawngreen;
+            color: black;
+            z-index: auto;
+            transform: scale(1.01);
+            cursor: pointer;
+        }
+    .log {
+        margin-left: 10%;
+    }
+
+    .Lhead { 
+       
+        font-family: 'Global Sans Serif';
+        margin-bottom: 30px;
+        font-weight: 300;
+        font-style: oblique;
+        font-size:40px;
+    }
+    .Lhead:hover
+    {
+            transform: scale(1);
+            color:lawngreen;
+          
+    } 
+    .bg img
+    {
+       position:absolute;
+       top:10%;
+       left:37%;
+       width:50%;
+
+    }
+    .bg{
+     height:100%;
+    }
+</style>
+
+<div class="bg">
+<form method="post">
+
+     <div class=" log">
+        <h1 class= "Lhead"> Register</h1>
+     </div>
+       
+       
+            <div class="log-div">
+                <label class="form-label" for="">Username</label>
+                <input type="text" class=" form-input" id="" placeholder="ENTER YOUR USERNAME" asp-for="Username">
+  
+           </div>
+            <div class="log-div-1">
+                <label class ="form-label" for="">
+                    Email</label>
+                <input type="email" class=" form-input" id="" placeholder="ENTER YOUR EMAIL" asp-for="Email">
+
+          </div>
+            <div class="log-div-2">
+                <label class="form-label" for="">Password</label>
+                <input type="password" class=" form-input" id="" aria-describedby="Password" placeholder="ENTER YOUR PASSWORD" asp-for="Password">
+            </div>
+
+    <button type="submit" class="logx" >Register</button>
+            
+     
+</form>
+    <img src="~/paneer-removebg-preview.png" />
+</div>

@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCWebApplication4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCWebApplication4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\1000_F_116732368_8vJjuGbJfY6q2cwOZLsI7VQeuNkcmT1l-removebg-preview.png",
+      "PackagePath": "staticwebassets\\1000_F_116732368_8vJjuGbJfY6q2cwOZLsI7VQeuNkcmT1l-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\25694-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\25694-removebg-preview (1).png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg",
+      "PackagePath": "staticwebassets\\360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\3d-registration-icon-symbol-of-document-vote-vector-44042914-removebg-preview.png",
+      "PackagePath": "staticwebassets\\3d-registration-icon-symbol-of-document-vote-vector-44042914-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\chinese_div-removebg-preview.png",
+      "PackagePath": "staticwebassets\\chinese_div-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\create-concept-line-icon-simple-element-illustration-create-concept-outline-symbol-design-free-vector-removebg-preview.png",
+      "PackagePath": "staticwebassets\\create-concept-line-icon-simple-element-illustration-create-concept-outline-symbol-design-free-vector-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\download-removebg-preview.png",
+      "PackagePath": "staticwebassets\\download-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\express-delivery-social-media-post-scooter-delivery-online-delivery-service-or-bike-and-home-delivery-ads-or-icon-free-vector-removebg-preview.png",
+      "PackagePath": "staticwebassets\\express-delivery-social-media-post-scooter-delivery-online-delivery-service-or-bike-and-home-delivery-ads-or-icon-free-vector-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\french_fries_top_dev-removebg-preview.png",
+      "PackagePath": "staticwebassets\\french_fries_top_dev-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\manchurias-removebg-preview.png",
+      "PackagePath": "staticwebassets\\manchurias-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\noproflie-removebg-preview.png",
+      "PackagePath": "staticwebassets\\noproflie-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\paneer-removebg-preview.png",
+      "PackagePath": "staticwebassets\\paneer-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pasta-removebg-preview.png",
+      "PackagePath": "staticwebassets\\pasta-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pasta_pomodoro-removebg-preview.png",
+      "PackagePath": "staticwebassets\\pasta_pomodoro-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-abhinav-goswami-291528.jpg",
+      "PackagePath": "staticwebassets\\pexels-abhinav-goswami-291528.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-chan-walrus-958545.jpg",
+      "PackagePath": "staticwebassets\\pexels-chan-walrus-958545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-george-milton-7014337.jpg",
+      "PackagePath": "staticwebassets\\pexels-george-milton-7014337.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-jane-doan-793759.jpg",
+      "PackagePath": "staticwebassets\\pexels-jane-doan-793759.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-jonathan-borba-2983101.jpg",
+      "PackagePath": "staticwebassets\\pexels-jonathan-borba-2983101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-lisa-fotios-1279330.jpg",
+      "PackagePath": "staticwebassets\\pexels-lisa-fotios-1279330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-marta-branco-1295572-removebg-preview.png",
+      "PackagePath": "staticwebassets\\pexels-marta-branco-1295572-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-marta-branco-1295572.jpg",
+      "PackagePath": "staticwebassets\\pexels-marta-branco-1295572.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-nerfee-mirandilla-3186654.jpg",
+      "PackagePath": "staticwebassets\\pexels-nerfee-mirandilla-3186654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-sydney-troxell-718742.jpg",
+      "PackagePath": "staticwebassets\\pexels-sydney-troxell-718742.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pexels-valeria-boltneva-1199957.jpg",
+      "PackagePath": "staticwebassets\\pexels-valeria-boltneva-1199957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pngtree-custom-shape-special-offer-banner-and-tag-png-image_6953389-removebg-preview.png",
+      "PackagePath": "staticwebassets\\pngtree-custom-shape-special-offer-banner-and-tag-png-image_6953389-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg",
+      "PackagePath": "staticwebassets\\pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\profilepic-removebg-preview.png",
+      "PackagePath": "staticwebassets\\profilepic-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\91700\\OneDrive\\Desktop\\MVC-WEBAPPLICATION\\MVCWebApplication4\\MVCWebApplication4\\wwwroot\\topdivpizza-removebg-preview.png",
+      "PackagePath": "staticwebassets\\topdivpizza-removebg-preview.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCWebApplication4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVCWebApplication4.props",
+      "PackagePath": "build\\MVCWebApplication4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCWebApplication4.props",
+      "PackagePath": "buildMultiTargeting\\MVCWebApplication4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVCWebApplication4.props",
+      "PackagePath": "buildTransitive\\MVCWebApplication4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

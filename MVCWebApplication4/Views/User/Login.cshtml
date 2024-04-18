@@ -1,0 +1,148 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Login
+
+<style>
+    .form-label
+    {
+        font-size: 22px;
+        display: block;
+        font-family: Georgia;
+
+}
+
+.form-input
+{
+        width: 30%;
+        border: 1px solid black;
+        border-style: revert-layer;
+        height: 40px;
+        display: block;
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding: 5px 20px;
+        font-family: Georgia;
+        color: lawngreen;
+   
+}
+
+    .logx {
+        background-color: deepskyblue;
+        color: rgb(218,252,252);
+        font-size: 20px;
+        border-radius: 10px;
+        padding: 8px 35px;
+        margin-top: 25px;
+        font-family: Georgia;
+}
+
+        .logx:hover {
+            background-color: lawngreen;
+            color: black;
+            z-index: auto;
+            transform: scale(1.01);
+            cursor: pointer;
+}
+
+.register-2  a
+{
+        list-style-type: none;
+        text-decoration: none;
+        background-color:aqua;
+        padding: 10px 15px;
+        font-size: 15px;
+        color:black;
+        border-radius: 10px;
+        font-family: 'Franklin Gothic';
+        font-style: italic;
+        margin-left:20%;
+        margin-top: 25%;
+ }
+
+        .register-2  a:hover {
+            background-color:lawngreen;
+            color:black;
+            z-index:auto;
+            transform: scale(2);
+            cursor: pointer;
+        }
+.log
+{
+margin-left:10%;
+}
+.Lhead
+{
+        font-family: 'Global Sans Serif';
+        margin-bottom: 30px;
+        font-weight: 300;
+        font-style: oblique;
+        font-size: 40px;
+   
+} 
+.Lhead:hover
+{
+            transform: scale(1);
+            color: lawngreen;
+}
+.register{
+  
+   padding-bottom:10px;
+   text-decoration:none;
+   list-style:none;
+   font-weight:1000;
+   font-family:Georgia;
+} 
+   
+   .bg-log
+   {
+       height:100%;
+       width:100%;
+   }
+    .register p{
+        color :black;
+    }
+    .bg-log img 
+    {
+      position :absolute;
+      top:20%;
+      left:45%;
+      width:40%;
+      
+    }
+</style>
+
+ <div class="bg-log">
+   <form method="post" class="login">
+      <div class=" log">
+         <h1 class=" Lhead">LOGIN</h1>
+      </div>
+    
+        <label class="form-label">Username</label>
+        <input class=" form-input" type="text"  id="Username"  placeholder="ENTER YOUR USERNAME" asp-for="Username">
+
+        <label class="form-label">Password</label>
+    <input class=" form-input" type="password" id="Password" aria-describedby="Password" placeholder="ENTER YOUR PASSWORD" asp-for="Password">
+       
+          
+           
+            <button type="submit" class="logx">Login</button>
+
+
+    <li>   
+         <div class="register">
+            If you don't have an account then.
+           <br />
+                Please click on the register. <p>Create an account.</p>
+         </div>
+            <div class="register-2">
+            <a asp-area"" asp-controller="User" asp-action="Register"> Register</a>
+            </div>
+    </li>
+
+      
+   </form>
+    <img src="~/pexels-marta-branco-1295572-removebg-preview.png" />
+</div>
